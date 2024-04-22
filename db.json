@@ -1,0 +1,228 @@
+{
+  "foods": [
+    { 
+      "id": "1",
+      "name":  "Ferry Boat Rainha Esther",
+      "total_ingredients": "5",
+      "time": 3,
+      "cover": "https://www.barcosdonorte.com.br/wp-content/uploads/2021/10/BANNER-CRYSTAL.png",
+      "video":"https://api.whatsapp.com/send?phone=5592999828170",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Manaus - Codajás",
+          "amount": "R$ 50"
+        },
+        {
+          "id": "2",
+          "name": "Manaus - Coari",
+          "amount": "R$ 100"
+        },
+        {
+          "id": "3",
+          "name": "Manaus - Tefé",
+          "amount": "R$ 150"
+        },
+        {
+          "id": "4",
+          "name": "Manaus - Alvarães",
+          "amount": "R$ 200"
+        },
+        {
+          "id": "5",
+          "name": "Manaus - Uarini",
+          "amount": "R$ 250"
+        }
+      ]
+      
+    },
+    { 
+      "id": "2",
+      "name": "Ferry boat Leao de Judá",
+      "total_ingredients": "5",
+      "time": 3,
+      "cover": "https://www.barcosdonorte.com.br/wp-content/uploads/2021/10/BANNER-CRYSTAL.png",
+      "video":"https://goo.gl/maps/yZygZkqKdDFGTpHfA",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Manaus - Codajás",
+          "amount": "R$ 50"
+        },
+        {
+          "id": "2",
+          "name": "Manaus - Coari",
+          "amount": "R$ 100"
+        },
+        {
+          "id": "3",
+          "name": "Manaus - Tefé",
+          "amount": "R$ 150"
+        },
+        {
+          "id": "4",
+          "name": "Manaus - Alvarães",
+          "amount": "R$ 200"
+        },
+        {
+          "id": "5",
+          "name": "Manaus - Uarini",
+          "amount": "R$ 250"
+        }
+      ]
+
+    },
+    { 
+      "id": "3",
+      "name":  "N/M Irmãos Miranda",
+      "total_ingredients": "5",
+      "time": 3,
+      "cover": "https://www.barcosdonorte.com.br/wp-content/uploads/2021/10/BANNER-CRYSTAL.png",
+      "video":"https://goo.gl/maps/8LnR6hgAvPoNHhjTA",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Manaus - Codajás",
+          "amount": "R$ 50"
+        },
+        {
+          "id": "2",
+          "name": "Manaus - Coari",
+          "amount": "R$ 100"
+        },
+        {
+          "id": "3",
+          "name": "Manaus - Tefé",
+          "amount": "R$ 150"
+        },
+        {
+          "id": "4",
+          "name": "Manaus - Alvarães",
+          "amount": "R$ 200"
+        },
+        {
+          "id": "5",
+          "name": "Manaus - Uarini",
+          "amount": "R$ 250"
+        }
+      ]
+    },
+    { 
+      "id": "4",
+      "name":  "N/M A.Nunes",
+      "total_ingredients": "5",
+      "time": 3,
+      "cover": "https://www.barcosdonorte.com.br/wp-content/uploads/2021/10/BANNER-CRYSTAL.png",
+      "video":"https://goo.gl/maps/hn8CZcd9ixEW4umE9",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Manaus - Codajás",
+          "amount": "R$ 50"
+        },
+        {
+          "id": "2",
+          "name": "Manaus - Coari",
+          "amount": "R$ 100"
+        },
+        {
+          "id": "3",
+          "name": "Manaus - Tefé",
+          "amount": "R$ 150"
+        },
+        {
+          "id": "4",
+          "name": "Manaus - Alvarães",
+          "amount": "R$ 200"
+        },
+        {
+          "id": "5",
+          "name": "Manaus - Uarini",
+          "amount": "R$ 250"
+        }
+      ]
+    },
+    { 
+      "id": "5",
+      "name":  "Lancha Crystal",
+      "total_ingredients": "4",
+      "time": 1,
+      "cover": "https://www.barcosdonorte.com.br/wp-content/uploads/2021/10/BANNER-CRYSTAL.png",
+      "video":"https://goo.gl/maps/9EPCckWStpwiiaLF8",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Manaus - Tefé",
+          "amount": "R$ 510"
+        },
+        {
+          "id": "2",
+          "name": "Tefé - Manaus",
+          "amount": "R$ 410"
+        },
+        {
+          "id": "3",
+          "name": "Manaus - Coari",
+          "amount": "R$ 410"
+        },
+        {
+          "id": "4",
+          "name": "Coari - Manaus",
+          "amount": "R$ 310"
+        }
+      ]
+    },
+    { 
+      "id": "6",
+      "name":  "Posto Atem (sarney)",
+      "total_ingredients": "4",
+      "time": 24,
+      "cover": "https://lh5.googleusercontent.com/p/AF1QipPTJGIo5NCiCwYQzC4b68HcwSfa7bjf2_rrITf3=w408-h306-k-no",
+      "video":"https://goo.gl/maps/a8P8mqQ4x1XuBLGv6",
+      "ingredients": [
+        {
+          "id": "1",
+          "name": "Gasolina Comun",
+          "amount": "R$ 4,97L"
+        },
+        {
+          "id": "2",
+          "name": "Gasolina Aditivida",
+          "amount": "R$ 4,99L"
+        },
+        {
+          "id": "3",
+          "name": "Etanol",
+          "amount": "R$ 3,98L"
+        },
+        {
+          "id": "4",
+          "name": "Diese S10",
+          "amount": "R$ 6,99L"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "1",
+          "text": "Cozinhe o Filé de peito DaGranja Seara em uma panela com água e sal. Quando estiver pronto, retire, desfie e tempere com sal, pimenta e salsinha."
+        },
+        {
+          "id": "2",
+          "text": "Espalhe o molho de tomate na massa de pizza cobrindo todo o disco."
+        },
+        {
+          "id": "3",
+          "text": "Espalhe o frango desfiado pela pizza."
+        },
+        {
+          "id": "4",
+          "text": "Coloque o catupiry em um saco de confeiteiro ou um saco plástico com furo na ponta e espalhe o queijo pela pizza. Você pode distribuir em espiral ou em linhas horizontais e verticais."
+        },
+        {
+          "id": "5",
+          "text": "Leve a pizza de frango com catupiry ao forno preaquecido até a massa dourar levemente embaixo e o catupiry derreter."
+        }
+      ]
+    }
+  ]
+}
